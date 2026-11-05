@@ -23,3 +23,7 @@ python -m unittest discover -v
 ```
 
 Automated testing and linting are configured using GitHub Actions and Ruff.
+
+## Gradebot Screenshot
+
+![Gradebot Screenshot](gradebot_screenshot.png)
